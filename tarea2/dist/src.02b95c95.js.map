@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/App.js","src/index.js"],"names":["alert","require"],"mappings":";AAAAA,MAAM;;ACAN,aAAAC,QAAA","file":"src.02b95c95.js","sourceRoot":"..\\base-js","sourcesContent":["alert(\"Presiona OK si estas list@ para empezar con javascript\");\n","import './App';\n"]}
